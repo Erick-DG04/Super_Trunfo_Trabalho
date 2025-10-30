@@ -11,4 +11,4 @@ Compilação
 
 No terminal digite:
 
-gcc main.c -o cartas
+gcc main.c -o super_trunfo_trabalho.c
